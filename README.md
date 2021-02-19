@@ -1,6 +1,7 @@
 # mini-movie-recommender
 
 Demo:
+
 ![movie-demo](https://github.com/r1cummings/mini-movie-recommender/blob/main/movie-demo2.gif)
 
 To see the full list of movies that can be passed into the script:
