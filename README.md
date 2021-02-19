@@ -1,4 +1,4 @@
-# Mini Python Movie Recommender System
+# Python Movie Recommender System
 
 ## Demo:
 
